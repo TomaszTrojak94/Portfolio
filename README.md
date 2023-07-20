@@ -35,7 +35,7 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 <li>A. Roman, L. Stapp - Certyfikowany tester ISTQB </li>
 </ul>
 
-<h1>My projects</h1>
+<h1>Moje projekty</h1>
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit#gid=0" target="_blank" rel="noopener noreferrer">Scenariusze testowe</a> </li>
 <li><a href="https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit#gid=1259240765" target="_blank" rel="noopener noreferrer">Przypadki testowe</a> </li>
