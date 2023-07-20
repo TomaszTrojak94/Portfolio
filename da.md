@@ -10,13 +10,15 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 ???
 
 <h1>Narzędzia</h1>
-* Jira <br>
-* TestRail <br>
-* Visual Studio Code <br>
-* Git <br>
+<ul>
+* <li>Jira </li><br> 
+* <li>TestRail </li><br>
+* <li>Visual Studio Code </li><br>
+* <li>Git </li><br> 
+</ul>
 
 <h1>Umiejętności</h1>
-* <ul>Znajomość ISTQB <br> </ul>
+* Znajomość ISTQB <br> 
 * SQL ??<br>
 * Python ?? <br>
 * DevTools <br>
