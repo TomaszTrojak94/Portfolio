@@ -1,5 +1,7 @@
 # Portfolio
+
 Portfolio
+
 <h1>About me</h1>
 My name is Agata Muchalska. I am master of performed art and master of music art speciality - violin. I graduated from Music Academies in Bern, Switzerland and Poznań,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 
@@ -74,6 +76,4 @@ Tablica trello.com
 Individual project - testing site zara.com
 Report
 Test cases
-Test cases - regression testing
-Mind map
-Automated Postman tests
+Test cases (https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit?usp=sharing)
