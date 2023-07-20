@@ -62,7 +62,7 @@ Article about creating portfolio in GitHub using my portfolio as example
 Test cases for site lubimyczytac.pl
 
 <h1>My bug reports</h1>
-Bugs reported for jakdojade.pl site
+<a href="https://docs.google.com/document/d/10AaW_0m_LiWHRHeG08x3bo4cT_qYHh5lb_hY4_QxNIs/edit" target="_blank" rel="noopener noreferrer">Bug reports</a>
 
 <h1>My examples of diagrams and decision tables</h1>
 Diagrams and decision tables for stoper, railway lights and registration
