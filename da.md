@@ -76,4 +76,4 @@ Tablica trello.com
 Individual project - testing site zara.com
 Report
 Test cases
-Test cases (https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit?usp=sharing)
+[Test cases](https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit?usp=sharing)
