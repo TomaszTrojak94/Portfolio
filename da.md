@@ -71,10 +71,5 @@ Diagrams and decision tables for stoper, railway lights and registration
 Finding uniqe CSS Selectors and xPaths on site ikea.pl
 
 <h1>My projects</h1>
-Group project - leader - testing site allegro.pl
-Tablica trello.com
-Individual project - testing site zara.com
-Report
-Test cases
+
 <a href="https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Test case</a>
-[Test cases](https://docs.google.com/spreadsheets/d/1PTwKa9PpbUowTkgXR9_EAGmyGmlhmdknsHo82p7C5Os/edit?usp=sharing)
