@@ -16,7 +16,7 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 * Git <br>
 
 <h1>Umiejętności</h1>
-* Znajomość ISTQB
+* <ul>Znajomość ISTQB <br> </ul>
 * SQL ??<br>
 * Python ?? <br>
 * DevTools <br>
