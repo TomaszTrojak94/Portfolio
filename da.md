@@ -11,10 +11,10 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 
 <h1>Narzędzia</h1>
 <ul>
-* <li>Jira </li><br> 
-* <li>TestRail </li><br>
-* <li>Visual Studio Code </li><br>
-* <li>Git </li><br> 
+<li>Jira </li> 
+<li>TestRail </li>
+<li>Visual Studio Code </li>
+<li>Git </li>
 </ul>
 
 <h1>Umiejętności</h1>
