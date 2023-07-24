@@ -7,7 +7,7 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 <li>Testowanie urządzeń po wykonanej naprawie </li>
 <li>Testowanie nowych urządzeń przed wprowadzeniem na rynek w oparciu o listę kontrolną </li>
 <li>Współpraca z Kierownikiem Serwisu w zakresie wdrażania nowych pracowników do pracy </li>
-???</ul>
+</ul>
 
 <h1>Narzędzia</h1>
 <ul>
@@ -20,8 +20,7 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 <h1>Umiejętności</h1>
 <ul>
 <li>Znajomość ISTQB </li> 
-<li>SQL ??</li>
-<li>Python ?? </li>
+<li>SQL</li>
 <li>DevTools </li>
 <li>SCRUM </li> 
 <li>Pisanie scenariuszy testowych </li>
