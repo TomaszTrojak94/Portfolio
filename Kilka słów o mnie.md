@@ -1,5 +1,3 @@
-# Portfolio
-
 <h1>O mnie</h1>
 Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-letnim doświadczeniem. Do moich głównych obowiązków należą: <ul>
 <li>Przeprowadzanie diagnostyki oraz napraw smartfonów, tabletów oraz laptopów w serwisie gwarancyjnym producenta sprzętu elektronicznego</li>
