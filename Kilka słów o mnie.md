@@ -30,6 +30,7 @@ Cześć, mam na imię Tomek i obecnie jestem serwisantem elektroniki z ponad 6-l
 <ul>
 <li>R.Smilgin - Zawód tester </li>
 <li>A. Roman, L. Stapp - Certyfikowany tester ISTQB </li>
+<li>Chhavi Raj Dosaj - Tester samouk </li>
 </ul>
 
 <h1>Moje projekty</h1>
